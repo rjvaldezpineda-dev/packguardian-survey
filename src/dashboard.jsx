@@ -3,8 +3,8 @@ import { useState, useEffect } from "react";
 // ─────────────────────────────────────────────
 // 🔧 PASTE YOUR SUPABASE VALUES HERE
 // ─────────────────────────────────────────────
-const SUPABASE_URL = "YOUR_SUPABASE_URL";
-const SUPABASE_ANON_KEY = "YOUR_SUPABASE_ANON_KEY";
+const SUPABASE_URL = "https://ivdapqomsxnanasqbwto.supabase.co";
+const SUPABASE_ANON_KEY = "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6Iml2ZGFwcW9tc3huYW5hc3Fid3RvIiwicm9sZSI6ImFub24iLCJpYXQiOjE3ODAxMDk0NDYsImV4cCI6MjA5NTY4NTQ0Nn0.FjD6nv8owOvBWeqZm_PybHJ8ZHk2qcxNctL4gTSOA98";
 // ─────────────────────────────────────────────
 
 const QUESTION_LABELS = {

@@ -1,5 +1,5 @@
 import React from 'react'
 import ReactDOM from 'react-dom/client'
-import Survey from './survey.jsx'
+import Survey from './dashboard.jsx'
 
-ReactDOM.createRoot(document.getElementById('root')).render(<Survey />)
+ReactDOM.createRoot(document.getElementById('root')).render(<Dashboard />)
